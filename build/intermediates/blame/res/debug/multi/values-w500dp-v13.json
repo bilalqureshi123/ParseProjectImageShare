@@ -1,0 +1,50 @@
+[
+    {
+        "outputFile": "/Users/raheelayasmin/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w500dp-v13/values-w500dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 54,
+                    "endOffset": 105
+                },
+                "from": {
+                    "file": "/Users/raheelayasmin/.android/build-cache/a4ccffde3a3c602eb62a86aa0499c9233dba4fa4/output/res/values-w500dp-v13/values-w500dp-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 54,
+                        "endOffset": 105
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/raheelayasmin/Desktop/Android Project/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w500dp-v13/values-w500dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 54,
+                    "endOffset": 105
+                },
+                "from": {
+                    "file": "/Users/raheelayasmin/.android/build-cache/a4ccffde3a3c602eb62a86aa0499c9233dba4fa4/output/res/values-w500dp-v13/values-w500dp-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 54,
+                        "endOffset": 105
+                    }
+                }
+            }
+        ]
+    }
+]

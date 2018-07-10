@@ -1,0 +1,50 @@
+[
+    {
+        "outputFile": "/Users/raheelayasmin/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rSG/values-en-rSG.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 103,
+                    "endOffset": 154
+                },
+                "from": {
+                    "file": "/Users/raheelayasmin/.android/build-cache/48a67d25a82b35f126609c0b6c1c60e6abb1bf28/output/res/values-en-rSG/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 292,
+                        "endColumn": 103,
+                        "endOffset": 391
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/raheelayasmin/Desktop/Android Project/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rSG/values-en-rSG.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 103,
+                    "endOffset": 154
+                },
+                "from": {
+                    "file": "/Users/raheelayasmin/.android/build-cache/48a67d25a82b35f126609c0b6c1c60e6abb1bf28/output/res/values-en-rSG/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 292,
+                        "endColumn": 103,
+                        "endOffset": 391
+                    }
+                }
+            }
+        ]
+    }
+]
